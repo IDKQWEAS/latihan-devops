@@ -1,2 +1,7 @@
 "Hello, DevOps!"
+<<<<<<< HEAD
 "Selamat datang di dunia DevOps!"
+=======
+Selamat datang di dunia DevOps!
+Selamat Pagi Semuanya
+>>>>>>> 8ef8eaf57b367618bfae80872a86f7dd6b70c304
